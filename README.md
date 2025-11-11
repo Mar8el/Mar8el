@@ -1,5 +1,5 @@
-## Hi there, my name is Marsel 👋
-I'm a Data Engineer.
+## Hi there 👋
+My name is Marsel, I am exprirnaced Data Engineer with over 8 years of expiriance! 
 <!--
 
 
