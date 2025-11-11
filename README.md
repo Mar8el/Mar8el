@@ -6,7 +6,7 @@ Here are some of the project to browse through
 
 Project Name | Description | Tools 
 --- | --- | --- 
-tbc | My name is Marsel, I am Data Engineer with over 8 years of experience! Expertise in DE and Analysis. My name is Marsel, I am Data Engineer with over 8 years of experience! Expertise in DE and Analysis. My name is Marsel, I am Data Engineer with over 8 years of experience! Expertise in DE and Analysis. | tbc 
+My name is Marsel, I am Data Engineer with over 8 years of experience! Expertise in DE and Analysis. | My name is Marsel, I am Data Engineer with over 8 years of experience! Expertise in DE and Analysis. My name is Marsel, I am Data Engineer with over 8 years of experience! Expertise in DE and Analysis. My name is Marsel, I am Data Engineer with over 8 years of experience! Expertise in DE and Analysis. | My name is Marsel, I am Data Engineer with over 8 years of experience! Expertise in DE and Analysis. 
 
 <!--
 
