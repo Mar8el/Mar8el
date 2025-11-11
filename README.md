@@ -4,7 +4,7 @@ Passionate about what I do.
 
 Here are some of the project to browse through 
 
-Prohect Name | Description | Tools 
+Project Name | Description | Tools 
 --- | --- | --- 
 Seconds | 301 | 283 
 
