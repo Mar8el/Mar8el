@@ -2,13 +2,13 @@
 My name is Marsel, I am Data Engineer with over 8 years of experience! Expertise in DE and Analysis. 
 Passionate about what I do. 
 
-Here are some of the project to browse through 
+Here are some of the projects to browse through 
 
 Project Name | Description | Tools 
 --- | --- | --- 
 [Azure End to End Project](https://github.com/Mar8el/Azure-e2e-data-engineering-project) | Modern Azure pipeline: ADF orchestrates ingestion/transformation; ADLS Gen2 stores raw/curated data; Databricks + Unity Catalog handles scalable transforms & governance; Delta Lake ensures ACID reliability; Synapse powers reporting; Key Vault secures secrets. | ADF, Databricks with Unity Catalog, Synapse, Key Vault, ADLS
 [CICD Using Git Actions](https://github.com/Mar8el/CICD_azure_adf_databricks)| Implementing Continuous Integration and Continuous Deployment (CI/CD) pipelines for Azure Data Factory (ADF) and Databricks using GitHub Actions | Github, Git Actions
-Azure IoT Fleet Safety Analytics Project | Python-based IoT simulator to stream telemetry to Azure in Event Hub. Key Vault reds all events and sorts them, Flagged events sent directly to Cosmos DB, rest events go back to Event Hub, Stream Analytics reads the rest and stores them in ADLS in 2 different ways. Databricks is used for further job. Synapse to create views and to orchestarte between  | Azure Stream Analytics, Event Hub, Azure Function, Cosmos DB, ADLS, Databricks, Synapse
+[Azure IoT Fleet Safety Analytics Project](https://github.com/Mar8el/Real_Time_Stream_Project) | Python-based IoT simulator to stream telemetry to Azure in Event Hub. Key Vault reds all events and sorts them, Flagged events sent directly to Cosmos DB, rest events go back to Event Hub, Stream Analytics reads the rest and stores them in ADLS in 2 different ways. Databricks is used for further job. Synapse to create views and to orchestarte between  | Azure Stream Analytics, Event Hub, Azure Function, Cosmos DB, ADLS, Databricks, Synapse
 <!--
 
 
