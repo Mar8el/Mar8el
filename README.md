@@ -6,8 +6,9 @@ Here are some of the project to browse through
 
 Project Name | Description | Tools 
 --- | --- | --- 
-[Azure-e2e-data-engineering-project](https://github.com/Mar8el/Azure-e2e-data-engineering-project) | Modern Azure pipeline: ADF orchestrates ingestion/transformation; ADLS Gen2 stores raw/curated data; Databricks + Unity Catalog handles scalable transforms & governance; Delta Lake ensures ACID reliability; Synapse powers reporting; Key Vault secures secrets. | ADF, Databricks with Unity Catalog, Synapse, Key Vault 
-tbc| tbc | tbc
+[Azure End to End Project](https://github.com/Mar8el/Azure-e2e-data-engineering-project) | Modern Azure pipeline: ADF orchestrates ingestion/transformation; ADLS Gen2 stores raw/curated data; Databricks + Unity Catalog handles scalable transforms & governance; Delta Lake ensures ACID reliability; Synapse powers reporting; Key Vault secures secrets. | ADF, Databricks with Unity Catalog, Synapse, Key Vault 
+[CICD Using Git Actions](https://github.com/Mar8el/CICD_azure_adf_databricks)| Implementing Continuous Integration and Continuous Deployment (CI/CD) pipelines for Azure Data Factory (ADF) and Databricks using GitHub Actions | Github, Git Actions
+tbc | tbc | tbc
 <!--
 
 
