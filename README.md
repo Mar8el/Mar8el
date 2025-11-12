@@ -6,7 +6,7 @@ Here are some of the project to browse through
 
 Project Name | Description | Tools 
 --- | --- | --- 
-tbc | tbc | tbc 
+[Azure-e2e-data-engineering-project] (https://github.com/Mar8el/Azure-e2e-data-engineering-project) | tbc | tbc 
 
 <!--
 
