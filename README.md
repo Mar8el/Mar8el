@@ -4,7 +4,7 @@ Passionate about what I do.
 
 Here are some of the projects to browse through 
 
-# | Project Name | Description | Tools 
+Numb| Project Name | Description | Tools 
 --- | --- | --- | --- 
 1 | [IFTA Project](https://github.com/Mar8el/IFTA_Project)| This project demonstrates a complete, Docker-based data pipeline that ingests, transforms, and analyzes vehicle mileage and fuel data used to generate IFTA (International Fuel Tax Agreement) reports. | docker, airflow, dbt, PostgreSQL, S3, pgadmin 
 2 | [Azure End to End Project](https://github.com/Mar8el/Azure-e2e-data-engineering-project) | Modern Azure pipeline: ADF orchestrates ingestion/transformation; ADLS Gen2 stores raw/curated data; Databricks + Unity Catalog handles scalable transforms & governance; Delta Lake ensures ACID reliability; Synapse powers reporting; Key Vault secures secrets. | ADF, Databricks with Unity Catalog, Synapse, Key Vault, ADLS
